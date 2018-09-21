@@ -1,0 +1,28 @@
+_repo: The-Field-Book-or-Sports-and-pastimes-of-the-United-Kingdom-compiled-from-the-best-authoritie__53702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maxwell, W. H. (William Hamilton)
+    alias: Maxwell, William Hamilton
+    birthdate: 1792
+    deathdate: 1850
+    gutenberg_agent_id: '44001'
+    url: http://www.gutenberg.org/2009/agents/44001
+description: ''
+gutenberg_issued: '2016-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports -- Great Britain'
+- !lcsh 'Sports -- Dictionaries'
+- !lcc 'SK'
+- !lcsh 'Amusements -- Great Britain'
+- GITenberg
+title: "The Field Book: or, Sports and pastimes of the United Kingdom\r\ncompiled\
+  \ from the best authorities, ancient and modern"
+url: http://www.gutenberg.org/ebooks/53702
